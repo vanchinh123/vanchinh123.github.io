@@ -6,4 +6,6 @@ h1{
 }
 img{
     width: 150px;
+    border: solid 1px red;
+    
 }
